@@ -39,18 +39,18 @@ A api poderá ser acessada pela em [localhost:8080](http://localhost:8080)
 ## Api EndPoints
 Para fazer requisições HTTP foi usado a ferramenta <a href="https://www.postman.com" target="_blank">Postman</a>:
 - **Criar Tarefa** <br>
-![Texto alternativo](images/logo.png)
+![Texto alternativo](images-repositories/postTask.jpg)
 
 - **Atualizar tarefa** <br>
-![Texto alternativo](images/logo.png)
+![Texto alternativo](images-repositories/putTask.jpg)
 
 - **Deletar tarefa**<br>
-![Texto alternativo](images/logo.png)
+![Texto alternativo](images-repositories/deleteTask.jpg)
 
 - **Listar todas tarefas**<br>
-[Texto alternativo](images/logo.png)
+[Texto alternativo](images-repositories/getAllTasks.jpg)
 
 - **Listar tarefas pelo seu id**<br>
-![Texto alternativo](images/logo.png)
+![Texto alternativo](images-repositories/getTaskById.jpg)
 
 
