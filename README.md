@@ -28,5 +28,29 @@ Este projeto consiste em uma API RESTful desenvolvida com Spring Boot, Java, JPA
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/seu-usuario/https://github.com/ericktnunes/API-REST-de-Gerenciamento-de-Tarefas.git
+cd API-REST-de-Gerenciamento-de-Tarefas
+```
+
+### 2. Rodar o projeto pela classe ApiTarefasAplication
+
+A api poderá ser acessada pela em [localhost:8080](http://localhost:8080)
+
+## Api EndPoints
+Para fazer requisições HTTP foi usado a ferramenta <a href="https://www.postman.com" target="_blank">Postman</a>:
+- **Criar Tarefa** <br>
+![Texto alternativo](images/logo.png)
+
+- **Atualizar tarefa** <br>
+![Texto alternativo](images/logo.png)
+
+- **Deletar tarefa**<br>
+![Texto alternativo](images/logo.png)
+
+- **Listar todas tarefas**<br>
+[Texto alternativo](images/logo.png)
+
+- **Listar tarefas pelo seu id**<br>
+![Texto alternativo](images/logo.png)
+
+
